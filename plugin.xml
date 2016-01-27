@@ -20,5 +20,7 @@
         <header-file src="src/ios/DeviceMacro.h"/>
         <header-file src="src/ios/Operation.h"/>
         <source-file src="src/ios/Operation.m"/>
+        <header-file src="src/ios/OperationPlugin.h"/>
+        <source-file src="src/ios/OperationPlugin.m"/>
 	</platform>
 </plugin>
