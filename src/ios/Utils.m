@@ -7,6 +7,7 @@
 //
 
 #import "Utils.h"
+#import "DeviceMacro.h"
 #import <CommonCrypto/CommonDigest.h>
 #import <CoreText/CoreText.h>
 @implementation Utils
