@@ -22,5 +22,7 @@
         <source-file src="src/ios/Operation.m"/>
         <header-file src="src/ios/OperationPlugin.h"/>
         <source-file src="src/ios/OperationPlugin.m"/>
+        <header-file src="src/ios/Utils.h"/>
+        <source-file src="src/ios/Utils.m"/>
 	</platform>
 </plugin>
